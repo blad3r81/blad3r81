@@ -12,6 +12,6 @@
 
 **EN:** I’m a full-stack developer building practical web products for businesses and everyday use. I work with React and Next.js interfaces, Python/FastAPI backends, PostgreSQL, Telegram Mini Apps, OpenAI API integrations and interactive 3D with Three.js. I focus on the whole user journey, from understanding a service to booking, sending a request or using an application regularly.
 
-📚 **[Проекты и подробные кейсы](https://github.com/blad3r81/portfolio-cases)** · 🌐 **[Веб-портфолио](https://danil-web-portfolio.vercel.app/)**
+📄 **[Резюме PDF](https://github.com/blad3r81/portfolio-cases/blob/main/resume-danil-shulga.pdf)** · 📚 **[Проекты и подробные кейсы](https://github.com/blad3r81/portfolio-cases)** · 🌐 **[Веб-портфолио](https://danil-web-portfolio.vercel.app/)**
 
 💬 **[Telegram: @NoAmm0](https://t.me/NoAmm0)**
