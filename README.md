@@ -14,4 +14,10 @@
 
 📄 **[Резюме PDF](https://github.com/blad3r81/portfolio-cases/blob/main/resume-danil-shulga.pdf)** · 📚 **[Проекты и подробные кейсы](https://github.com/blad3r81/portfolio-cases)** · 🌐 **[Веб-портфолио](https://danil-web-portfolio.vercel.app/)**
 
+## Проекты и хакатоны
+
+- **[Туда](https://github.com/blad3r81/portfolio-cases/blob/main/projects/tuda.md)** — интерфейс AI-помощника для планирования путешествий. Командный проект Bite Force для хакатона Островка: занимался концепцией интерфейса и пользовательского пути. [Открыть сервис](https://bite-force-web.vercel.app/).
+- **[М.Видео · характеристики товаров](https://github.com/blad3r81/portfolio-cases/blob/main/projects/mvideo-attributes.md)** — командный проект хакатона «Точка сборки»: извлечение и проверка характеристик по тексту карточки. [Посмотреть демо](https://mvideo-attribute-ai.vercel.app/).
+- **[Другие кейсы](https://github.com/blad3r81/portfolio-cases)** — сервисы для бизнеса, интерфейсы записи и Telegram Mini App.
+
 💬 **[Telegram: @NoAmm0](https://t.me/NoAmm0)**
