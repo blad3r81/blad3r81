@@ -21,6 +21,5 @@
 - **[М.Видео · характеристики товаров](https://github.com/blad3r81/portfolio-cases/blob/main/projects/mvideo-attributes.md)** — командный проект хакатона «Точка сборки»: извлечение и проверка характеристик по тексту карточки. [Посмотреть демо](https://mvideo-attribute-ai.vercel.app/).
 - **[Другие кейсы](https://github.com/blad3r81/portfolio-cases)** — сервисы для бизнеса, интерфейсы записи и Telegram Mini App.
 
-[![Контур решения: голосовой режим и общий чат](https://raw.githubusercontent.com/blad3r81/portfolio-cases/main/assets/contour/voice.jpg)](https://github.com/blad3r81/portfolio-cases/blob/main/projects/contour.md)
 
 💬 **[Telegram: @NoAmm0](https://t.me/NoAmm0)**
