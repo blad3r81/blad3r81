@@ -16,8 +16,11 @@
 
 ## Проекты и хакатоны
 
+- **[Контур решения](https://github.com/blad3r81/portfolio-cases/blob/main/projects/contour.md)** — мой ИИ-помощник руководителя продукта по задаче хакатона МегаФона: голос и чат, документы и таблицы, расчёты и графики, продуктовая и коммуникационная стратегии, сохранение оснований и пересмотр решения. Проверен на официальном учебном брифе. [Сервис](https://decision-contour.vercel.app/) · [Код и полный разбор](https://github.com/blad3r81/contour-product-strategist).
 - **[Туда](https://github.com/blad3r81/portfolio-cases/blob/main/projects/tuda.md)** — интерфейс AI-помощника для планирования путешествий. Командный проект Bite Force для хакатона Островка: занимался концепцией интерфейса и пользовательского пути. [Открыть сервис](https://bite-force-web.vercel.app/).
 - **[М.Видео · характеристики товаров](https://github.com/blad3r81/portfolio-cases/blob/main/projects/mvideo-attributes.md)** — командный проект хакатона «Точка сборки»: извлечение и проверка характеристик по тексту карточки. [Посмотреть демо](https://mvideo-attribute-ai.vercel.app/).
 - **[Другие кейсы](https://github.com/blad3r81/portfolio-cases)** — сервисы для бизнеса, интерфейсы записи и Telegram Mini App.
+
+[![Контур решения: голосовой режим и общий чат](https://raw.githubusercontent.com/blad3r81/portfolio-cases/main/assets/contour/voice.jpg)](https://github.com/blad3r81/portfolio-cases/blob/main/projects/contour.md)
 
 💬 **[Telegram: @NoAmm0](https://t.me/NoAmm0)**
